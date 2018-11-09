@@ -1,0 +1,7 @@
+{
+    "name": "cwp-10",
+    "authror": "3axap",
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
